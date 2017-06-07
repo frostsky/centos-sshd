@@ -1,3 +1,5 @@
+# CentOS 6.7 + sshd
+
 # Pull and Run
 ```
 $ docker pull frostsky/centos-sshd:6.7

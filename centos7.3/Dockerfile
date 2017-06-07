@@ -1,4 +1,4 @@
-FROM centos:7.3
+FROM centos:latest
 
 MAINTAINER frostsky <dongshimin@frostsky.com>
 
